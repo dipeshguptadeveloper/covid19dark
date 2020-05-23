@@ -196,7 +196,7 @@ figure img:hover
 {
     display: none;
     position: fixed;
-    bottom: 30px;
+    bottom: 90px;
     right: 40px;
     z-index: 99;
     border: none;
